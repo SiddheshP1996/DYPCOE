@@ -311,3 +311,6 @@ c = child()
 c.test()
 
 
+# feasable solution : no of approaches to solve the question
+
+# optimal solution : the best one to solve the question 
