@@ -1,4 +1,4 @@
-# DYPCOE - My Self-made Codes
+# Self-Codes
 
 <li>Calculator</li>
 <li>Pizza</li>
